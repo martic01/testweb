@@ -17,7 +17,7 @@
  .topbox {
      width: 100%;
      height: 6vh;
-     background-color: #0048e3;
+     background-color: #cf24f1;
      display: flex;
      justify-content: center;
      padding: 7px;
@@ -138,7 +138,7 @@
  .dim {
      width: 100%;
      height: 100%;
-     background-color: rgba(138, 194, 240, 0.459);
+     background-color: rgba(0, 0, 0, 0.459);
      display: flex;
      justify-content: center;
      align-items: center;
